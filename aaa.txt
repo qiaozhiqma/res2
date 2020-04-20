@@ -1,4 +1,7 @@
 fffff
 fffff
+<<<<<<< .mine
 dddres2
 333
+dddres2
+111
